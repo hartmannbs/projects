@@ -1,7 +1,7 @@
 Projects
 ---
 
-![Image from work](https://hartmannbs.github.io/socnerd/img/pic.jpeg)
+![Image from work](https://hartmannbs.github.io/socnerd/img/pic.jpg)
 
 ## Hate Speech on Facebook ##
 Notes
