@@ -1,12 +1,10 @@
 Projects
 ---
 
-![Image from work](https://hartmannbs.github.io/socnerd/img/iu.jpg)
+![Image from work](https://hartmannbs.github.io/sociology/img/ideological_alignment.jpeg)
 
 ## Hate Speech on Facebook ##
 Notes
-
-![Image from work](https://hartmannbs.github.io/socnerd/img/ideological_alignment.jpeg)
 
 ## Understanding Difference Racial Conceptualization and its Political Consequences ##
 Notes 
@@ -19,3 +17,4 @@ Notes
 
 ## Other Projects I am a collaborator on ##
 Notes
+
