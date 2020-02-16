@@ -16,13 +16,13 @@ Notes
 Notes 
 
 ## Other Projects I am a collaborator on ##
-### Partnering Decisions of Second Generation Immigrant Women ###
-#### with Patricia McManus and Katlin Johnson ####
-### The Suicide Project ###
-#### with Bernice Pescisolido ####
-### Network Effects on New Immigrant Dental Health ###
-#### with Caroline V Brooks and Gerardo Maupome ####
-### Embodied Scrutiny and Gender Nonconforming Adolescene ###
-#### with Caroline V Brooks and Krystina Millar ####
+### * Partnering Decisions of Second Generation Immigrant Women ###
+#### ** with Patricia McManus and Katlin Johnson ####
+### * The Suicide Project ###
+#### ** with Bernice Pescisolido ####
+### * Network Effects on New Immigrant Dental Health ###
+#### ** with Caroline V Brooks and Gerardo Maupome ####
+### * Embodied Scrutiny and Gender Nonconforming Adolescene ###
+#### ** with Caroline V Brooks and Krystina Millar ####
 
 
