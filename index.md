@@ -1,10 +1,8 @@
 Projects
 ---
 <p align="center">
-  <img width="460" height="300" src="https://hartmannbs.github.io/socnerd/img/ideological_alignment.jpeg">
+  <img width="460" height="400" src="https://hartmannbs.github.io/socnerd/img/ideological_alignment.jpeg">
 </p>
-
-![Image from work](https://hartmannbs.github.io/socnerd/img/ideological_alignment.jpeg)
 
 ## Hate Speech on Facebook ##
 Notes
