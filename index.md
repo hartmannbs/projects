@@ -16,8 +16,8 @@ Notes
 Notes 
 
 ## Other Projects I am a collaborator on ##
-*Partnering Decisions of Second Generation Immigrant Women 
-**with Patricia McManus and Katlin Johnson 
+* Partnering Decisions of Second Generation Immigrant Women 
+** with Patricia McManus and Katlin Johnson 
 *The Suicide Project 
 **with Bernice Pescisolido 
 *Network Effects on New Immigrant Dental Health 
